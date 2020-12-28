@@ -1,5 +1,5 @@
 ---
-title: Benjamiun Leruth
+title: Benjamin Leruth
 role: Assistant Professor in European Politics and Society
 bio: ""
 interests:

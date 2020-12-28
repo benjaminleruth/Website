@@ -5,7 +5,7 @@ draft: false
 featured: false
 external_link: none
 image:
-  filename: featured
+  filename: europe.png
   focal_point: Smart
   preview_only: false
 ---

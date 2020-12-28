@@ -1,11 +1,12 @@
 ---
 widget: about
+active: true
+author: admin
 widget_id: About me
 headless: true
 weight: 20
-title: Biography
-active: true
-author: admin
+title: Welcome!
+subtitle: About me
 ---
 <!--StartFragment-->
 

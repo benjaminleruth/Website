@@ -4,9 +4,9 @@ role: Assistant Professor in European Politics and Society
 avatar_filename: benjamin_leruth.jpg
 bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Comparative welfare politics
+  - European integration
+  - Transnational governance
 social:
   - icon: envelope
     icon_pack: fas

@@ -65,6 +65,6 @@ experience:
     location: Bath, United Kingdom
     date_start: '2014-09-01'
     date_end: '2015-01-31'
-    description: Fixed-term postdoctoral teaching contract
+    description: Fixed-term teaching position
      
 ---

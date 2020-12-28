@@ -1,77 +1,51 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: Benjamiun Leruth
+role: Assistant Professor in European Politics and Society
+bio: ""
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-# Education to show in About widget
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/GeorgeCushen
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/gcushen
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/
+organizations:
+  - name: Stanford University
+    url: https://www.stanford.edu/
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+    - course: PhD in Artificial Intelligence
+      institution: Stanford University
+      year: 2012
+    - course: MEng in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2009
+    - course: BSc in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2008
 email: ""
-
-# Highlight the author in author lists? (true/false)
+superuser: true
 highlight_name: false
 ---
+<!--StartFragment-->
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Benjamin Leruth is an Assistant Professor in Politics and Society specializing in comparative politics and welfare policy, Euroscepticism, democratic innovations, and differentiated European (dis)integration.\
+\
+Prior to joining the University of Groningen, he worked as Assistant Professor in Politics and Public Administration at the University of Canberra (2017-19), as a Research Associate at the University of Kent (2015-17) and as a Teaching Fellow in French and European Politics at the University of Bath (2014-15). He also held a visiting fellowship at the ARENA Centre for European Studies (University of Oslo). He holds a Ph.D. in Politics from the University of Edinburgh, a LL.M. in European Law from the University of Kent and a BA in Political Science from the University of Namur.\
+\
+He is the co-author and co-editor of various books, such as [Euroscepticism as a Transnational and pan-European Phenomenon](https://www.routledge.com/Euroscepticism-as-a-Transnational-and-Pan-European-Phenomenon-The-Emergence/FitzGibbon-Leruth-Startin/p/book/9781138917651) (Routledge, 2017); [After Austerity](https://global.oup.com/academic/product/after-austerity-9780198790266?cc=gb&lang=en&) (Oxford University Press, 2017); the [Routledge Handbook of Euroscepticism](https://www.routledge.com/The-Routledge-Handbook-of-Euroscepticism/Startin-Usherwood-Leruth/p/book/9781138784741) (Routledge, 2018); [Attitudes, Aspirations and Welfare](https://www.palgrave.com/in/book/9783319757827) (Palgrave, 2018); and [Differentiated Integration and Disintegration in a Post-Brexit Era](https://www.routledge.com/Differentiated-Integration-and-Disintegration-in-a-Post-Brexit-Era-1st/Ganzle-Leruth-Trondal/p/book/9780367135300) (Routledge, 2020). His articles have been published in journals such as Policy & Politics, the Journal of European Public Policy, the Journal of Common Market Studies, Politics, Comparative European Politics, and Social Policy & Administration. He is the co-founder and co-director of the UACES-funded Research Network on “[Differentiated Integration in the European Union after Brexit](http://differentiated-integration.eu/)”.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!--EndFragment-->

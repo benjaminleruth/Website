@@ -9,33 +9,33 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: mailto:b.j.j.leruth@rug.nl
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://twitter.com/BenLeruth
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=xJI3JgUAAAAJ&hl=en
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Benjamin_Leruth
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/benleruth/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - url: https://www.rug.nl/staff/b.j.j.leruth/
+    name: University of Groningen
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Political Science
+      institution: University of Edinburgh
+      year: 2014
+    - course: LL.M. in European Law
+      institution: University of Kent
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BA in Political Science
+      institution: University of Namur
+      year: 2010
 email: ""
 superuser: true
 highlight_name: false

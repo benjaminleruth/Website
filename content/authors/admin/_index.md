@@ -1,6 +1,7 @@
 ---
 title: Benjamin Leruth
 role: Assistant Professor in European Politics and Society
+avatar_filename: benjamin_leruth.jpg
 bio: ""
 interests:
   - Artificial Intelligence

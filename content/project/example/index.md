@@ -1,14 +1,17 @@
 ---
 slides: example
 url_pdf: ""
-summary: Testing
+title: "Euroscepticism "
+date: 2016-04-27T00:00:00.000Z
+summary: How did Eurosceptic parties adapt to Brexit? In the context of the
+  Covid-19 crisis, are we noticing the emergence of a new form of
+  Euroscepticism?
 authors: []
 url_video: ""
-date: 2016-04-27T00:00:00.000Z
+featured: true
+tags: []
 external_link: "0"
 url_slides: ""
-title: Example Project
-tags: []
 links: []
 image:
   caption: ""

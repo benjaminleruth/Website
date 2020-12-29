@@ -1,7 +1,7 @@
 ---
 title: Benjamin Leruth
 role: Assistant Professor in European Politics and Society
-avatar_filename: benjamin_leruth.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Comparative welfare politics

@@ -18,7 +18,9 @@ authors:
   - Stefan Gänzle
   - Benjamin Leruth
   - Jarle Trondal
-summary: ""
+summary: Assessing the consequences of Brexit on EU policies, institutions and
+  members, this book discusses the significance of differentiation for the
+  future of European integration.
 header:
   caption: ""
   image: ""

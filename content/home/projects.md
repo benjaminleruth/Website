@@ -40,3 +40,7 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
+
+This is project number 1
+
+This is project number 2

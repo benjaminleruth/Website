@@ -8,8 +8,7 @@ date: 2016-04-27T00:00:00.000Z
 external_link: "0"
 url_slides: ""
 title: Example Project
-tags:
-  - Deep Learning
+tags: []
 links: []
 image:
   caption: ""

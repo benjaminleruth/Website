@@ -14,7 +14,7 @@ links: []
 image:
   caption: ""
   focal_point: Smart
-  filename: europe.png
+  filename: featured.png
   preview_only: false
 url_code: ""
 ---

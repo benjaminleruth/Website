@@ -3,7 +3,7 @@ title: After Austerity
 publication_types:
   - "5"
 draft: false
-featured: false
+featured: true
 image:
   filename: ""
   focal_point: Smart

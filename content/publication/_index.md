@@ -1,11 +1,5 @@
 ---
-view: 4
-title: Publications
-subtitle: Books
-publication_types:
-  - "5"
-authors: []
-summary: >-
+abstract: >-
   Assessing the consequences of Brexit on EU policies, institutions and members,
   this book discusses the significance of differentiation for the future of
   European integration.
@@ -15,10 +9,21 @@ summary: >-
 
 
   This book will be of key interest to scholar and students of European Union politics, European integration, Brexit, and more broadly to Public Administration, Law, Economics, Finance, Philosophy, History and International Relations.
+view: 4
+title: Differentiated Integration and Disintegration in a Post-Brexit Era
+subtitle: ""
+publication_types:
+  - "5"
+authors:
+  - Stefan Gänzle
+  - Benjamin Leruth
+  - Jarle Trondal
+summary: ""
 header:
   caption: ""
   image: ""
+featured: true
 image:
-  filename: 9780367135300.jpg
+  filename: featured.jpg
 date: 2020-12-28T09:29:12.959Z
 ---

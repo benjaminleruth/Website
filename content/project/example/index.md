@@ -2,6 +2,7 @@
 slides: example
 url_pdf: ""
 summary: Testing
+authors: []
 url_video: ""
 date: 2016-04-27T00:00:00.000Z
 external_link: "0"
@@ -14,7 +15,7 @@ image:
   caption: ""
   focal_point: Smart
   filename: europe.png
-  preview_only: true
+  preview_only: false
 url_code: ""
 ---
 
